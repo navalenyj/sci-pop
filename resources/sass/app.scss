@@ -1,0 +1,24 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.img-medium-size{
+    height: 200px;
+    width: 185px;
+}
+
+.img-header{
+    height: 32px;
+    width: 32px;
+}
+
+
+.icon-like{
+    width: 32px;
+    height: 32px;
+}
